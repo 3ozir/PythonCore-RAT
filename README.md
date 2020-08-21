@@ -49,10 +49,10 @@ https://www.youtube.com/watch?v=NcxzaSwR1sk&list=PLasGwuDtDJHK7Nu4YhsD_Xp52rChz9
 
 # License
 
-PythonGUI-RAT (EBF RAT) is distributed under the <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT License</a>.
+Copyright © 2020 SoufiyanAk | PythonCore-RAT (EBF RAT) is distributed under the <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT License</a>.
 
 # Thank you!
 
-I really appreciate all kinds of feedback and contributions.
+I really appreciate all kinds of feedback and contributions. 
 
 
